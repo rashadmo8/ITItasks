@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Rashad\\OneDrive\\Desktop\\day1\\day1\\",
+  "WorkspaceRootPath": "C:\\Users\\Rashad\\OneDrive\\Desktop\\day1,day2\\day1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D710E166-B42D-4637-B519-B1BB7C97F296}|day1\\day1.csproj|c:\\users\\rashad\\onedrive\\desktop\\day1\\day1\\day1\\day1task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D710E166-B42D-4637-B519-B1BB7C97F296}|day1\\day1.csproj|solutionrelative:day1\\day1task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{869207AC-F6BD-432E-9DDA-DA4EC8B5BAC9}|day3task\\day3task.csproj|c:\\users\\rashad\\onedrive\\desktop\\day1,day2\\day1\\day3task\\day3task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{869207AC-F6BD-432E-9DDA-DA4EC8B5BAC9}|day3task\\day3task.csproj|solutionrelative:day3task\\day3task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,15 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "day1Task.cs",
-              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\day1\\day1\\day1\\day1Task.cs",
-              "RelativeDocumentMoniker": "day1\\day1Task.cs",
-              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\day1\\day1\\day1\\day1Task.cs",
-              "RelativeToolTip": "day1\\day1Task.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Title": "day3Task.cs",
+              "DocumentMoniker": "C:\\Users\\Rashad\\OneDrive\\Desktop\\day1,day2\\day1\\day3task\\day3Task.cs",
+              "RelativeDocumentMoniker": "day3task\\day3Task.cs",
+              "ToolTip": "C:\\Users\\Rashad\\OneDrive\\Desktop\\day1,day2\\day1\\day3task\\day3Task.cs",
+              "RelativeToolTip": "day3task\\day3Task.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAowHIAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-11T21:56:06.182Z",
-              "IsPinned": true,
+              "WhenOpened": "2025-09-13T13:37:33.035Z",
               "EditorCaption": ""
             }
           ]
