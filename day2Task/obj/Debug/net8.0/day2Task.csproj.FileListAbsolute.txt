@@ -1,0 +1,14 @@
+C:\Users\Rashad\OneDrive\Desktop\day1\day1\day2Task\bin\Debug\net8.0\day2Task.exe
+C:\Users\Rashad\OneDrive\Desktop\day1\day1\day2Task\bin\Debug\net8.0\day2Task.deps.json
+C:\Users\Rashad\OneDrive\Desktop\day1\day1\day2Task\bin\Debug\net8.0\day2Task.runtimeconfig.json
+C:\Users\Rashad\OneDrive\Desktop\day1\day1\day2Task\bin\Debug\net8.0\day2Task.dll
+C:\Users\Rashad\OneDrive\Desktop\day1\day1\day2Task\bin\Debug\net8.0\day2Task.pdb
+C:\Users\Rashad\OneDrive\Desktop\day1\day1\day2Task\obj\Debug\net8.0\day2Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rashad\OneDrive\Desktop\day1\day1\day2Task\obj\Debug\net8.0\day2Task.AssemblyInfoInputs.cache
+C:\Users\Rashad\OneDrive\Desktop\day1\day1\day2Task\obj\Debug\net8.0\day2Task.AssemblyInfo.cs
+C:\Users\Rashad\OneDrive\Desktop\day1\day1\day2Task\obj\Debug\net8.0\day2Task.csproj.CoreCompileInputs.cache
+C:\Users\Rashad\OneDrive\Desktop\day1\day1\day2Task\obj\Debug\net8.0\day2Task.dll
+C:\Users\Rashad\OneDrive\Desktop\day1\day1\day2Task\obj\Debug\net8.0\refint\day2Task.dll
+C:\Users\Rashad\OneDrive\Desktop\day1\day1\day2Task\obj\Debug\net8.0\day2Task.pdb
+C:\Users\Rashad\OneDrive\Desktop\day1\day1\day2Task\obj\Debug\net8.0\day2Task.genruntimeconfig.cache
+C:\Users\Rashad\OneDrive\Desktop\day1\day1\day2Task\obj\Debug\net8.0\ref\day2Task.dll
